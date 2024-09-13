@@ -8,7 +8,7 @@ Disciplina de Fundamentos de Computação II ministrada na Pontifícia Universid
 | [2](./Aula%202/) | 28/08 | **Exercícios de Revisão** |  Proposições, Condicionais, Equivalências lógicas <br/>[Aula 2.0](./Aula%202/Aula%202.0%20-%20Exercicios%20Revisao.pdf)  | &nbsp;|
 | [3](./Aula%203/) | 04/09 | **Revisão de Lógica** |  Tabelas-verdade,  Quantificadores e Pertinência  <br/>[Aula 3.0](./Aula%203/Aula%203.0%20-%20Revis%C3%A3o.pdf)  | &nbsp;|
 | [4](./Aula%204/) | 04/09 | **Técnicas de Demonstração** |  Introdução, Terminologia, Definições básicas <br/>[Aula 4.0](./Aula%204/Aula%204.0%20-%20Demonstrac%CC%A7o%CC%83es%20p1.pdf)  | [Atividade 1](./Aula%204/Atividade%201%20-%20Revis%C3%A3o%20e%20Prova%20Direta.pdf) |
-| [5](./Aula%205/) | 11/09 | **Técnicas de Demonstração** |  Prova por vacuidade, por trivialidade, direta e contrapositiva <br/>[Aula 5.0](./)  |  |
+| [5](./Aula%205/) | 11/09 | **Técnicas de Demonstração** |  Prova por vacuidade, por trivialidade, direta e contrapositiva <br/>[Aula 5.0](./Aula%205/Aula%205.0%20-%20Demonstrac%CC%A7o%CC%83es%20p2.pdf)  |  |
 
 ## Bibliografia Básica e Complementar
 
