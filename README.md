@@ -1,4 +1,6 @@
-# FC2
+## FC2
+
+# Este repositório não está mais sendo mantido. Todo o material está sendo disponibilizado através do portal da disciplina no Teams.
 
 Disciplina de Fundamentos de Computação II ministrada na Pontifícia Universidade Católica de Goiás (PUC-GO) no semestre 2024-2 para o curso de Ciência da Computação.
 
